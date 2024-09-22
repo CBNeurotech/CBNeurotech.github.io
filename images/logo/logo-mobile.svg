@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="93.528793"
+   height="59.39743"
+   viewBox="0 0 24.74616 15.71557"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="cbneurotech-mobile.svg"
+   inkscape:export-filename="D:\cbneurotech.png"
+   inkscape:export-xdpi="150.25156"
+   inkscape:export-ydpi="150.25156"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#7c7c7c"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.3994184"
+     inkscape:cx="-5.5689179"
+     inkscape:cy="70.804813"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#7c7c7c" />
+  <defs
+     id="defs2">
+    <rect
+       x="144.97604"
+       y="438.78561"
+       width="203.4808"
+       height="82.292397"
+       id="rect24713" />
+    <rect
+       x="155.58875"
+       y="337.54462"
+       width="45.346905"
+       height="30.572224"
+       id="rect15688" />
+    <marker
+       style="overflow:visible"
+       id="DotS"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1796" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1790" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DiamondS"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondS"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path1814" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="EmptyDiamondS"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="EmptyDiamondS"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2)"
+         style="fill:context-fill;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path1841" />
+    </marker>
+    <color-profile
+       name="sRGB-IEC61966-2.1"
+       xlink:href="file:///C:/WINDOWS/system32/spool/drivers/color/sRGB%20Color%20Space%20Profile.icm"
+       id="color-profile1580" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-47.516783,-99.27065)">
+    <g
+       id="g733">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DotS);marker-end:url(#DotS)"
+         d="m 59.706185,104.18814 -4.337628,-4.16752 -7.101805,7.1018 7.101805,7.1018 4.465205,-4.2951"
+         id="path549"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="D:\path549.png"
+         inkscape:export-xdpi="150.25156"
+         inkscape:export-ydpi="150.25156" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 62.934489,103.91447 3.863634,-3.82276 4.714852,4.71483 -2.364504,2.36453 2.350345,2.35035 -4.714851,4.71483 -3.877792,-3.75349"
+         id="path32614"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-filename="D:\path549.png"
+         inkscape:export-xdpi="150.25156"
+         inkscape:export-ydpi="150.25156" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 68.502261,104.75444 h -1.743286 l -1.021069,1.02107"
+       id="path36403"
+       inkscape:export-filename="D:\path549.png"
+       inkscape:export-xdpi="150.25156"
+       inkscape:export-ydpi="150.25156" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 66.75898,103.01174 -5e-6,1.7427"
+       id="path36405"
+       inkscape:export-filename="D:\path549.png"
+       inkscape:export-xdpi="150.25156"
+       inkscape:export-ydpi="150.25156" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 66.776301,111.07076 10e-7,-1.74329 -1.02107,-1.02107"
+       id="path36731"
+       inkscape:export-filename="D:\path549.png"
+       inkscape:export-xdpi="150.25156"
+       inkscape:export-ydpi="150.25156" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 68.519,109.32748 -1.742698,-10e-6"
+       id="path36733"
+       inkscape:export-filename="D:\path549.png"
+       inkscape:export-xdpi="150.25156"
+       inkscape:export-ydpi="150.25156" />
+  </g>
+</svg>

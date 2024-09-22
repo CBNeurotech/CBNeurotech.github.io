@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Github",
+    "link": "https://github.com/CBNeurotech",
+    "image": "images/social/github.svg"
+  },
+  {
+      "name": "Email",
+      "link": "mailto:chad@cbneurotech.com",
+      "image": "images/social/email.svg"
+  }
+]

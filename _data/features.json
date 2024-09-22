@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Free Consultation",
+    "description": "New clients receive an obligation-free consultation.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Supports Open Source",
+    "description": "We help maintain neural signal software including LabStreamingLayer and ezmsg.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Mila Partner",
+    "description": "We are a small-business partner of Mila with access to their resources and services.",
+    "image": {
+      "url": "images/features/Mila.png",
+      "width": 80,
+      "height": 25
+    }
+  }
+]
