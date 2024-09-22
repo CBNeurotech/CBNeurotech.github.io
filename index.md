@@ -10,6 +10,6 @@ show_call_box: true
 
 # CBNeurotech Inc
 
-CBNeurotech offers software consulting services with specialization in neural signal processing, especially unbounded streaming processing for neurotechnology devices.
+CBNeurotech offers software consulting services specializing in unbounded neural signal processing for neurotechnology.
 
 This page is under construction.
